@@ -3,6 +3,7 @@ package com.pramit.model;
 public class Employee {
 	private String name;
 	private String surname;
+	private String employeeID;
 	
 	public Employee(String name, String surname) {
 		this.name = name;
